@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AdminSMS">
+</Property><Property Name="Solution File" Value="D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\AdminSMS.sln">
+</Property><Property Name="User Options File" Value="D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\AdminSMS.suo">
+</Property><Property Name="Date" Value="28 Februari 2013">
+</Property><Property Name="Time" Value="11:25">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AdminSMS.sln" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AdminSMS.suo" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS.suo">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\AdminSMS.csproj" Description="Project file successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\AdminSMS.csproj">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\AdminSMS.csproj.user" Description="Project user file successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\AdminSMS.csproj.user">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Database.cs" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Database.cs">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\FadeLabel.cs" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\FadeLabel.cs">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Form1.cs" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Form1.cs">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Form1.Designer.cs" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\frmChat.cs" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\frmChat.cs">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\frmChat.Designer.cs" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\frmChat.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\frmDosen.cs" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\frmDosen.cs">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\frmDosen.Designer.cs" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\frmDosen.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\frmJadwal.cs" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\frmJadwal.cs">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\frmJadwal.Designer.cs" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\frmJadwal.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\frmMataKuliah.cs" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\frmMataKuliah.cs">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\frmMataKuliah.Designer.cs" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\frmMataKuliah.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\frmPembuat.cs" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\frmPembuat.cs">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\frmPembuat.Designer.cs" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\frmPembuat.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\frmPengumuman.cs" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\frmPengumuman.cs">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\frmPengumuman.Designer.cs" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\frmPengumuman.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Login.cs" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Login.cs">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Login.Designer.cs" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Login.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Program.cs" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Program.cs">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Properties\Settings.settings" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Resources\send_sms.png" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Resources\send_sms.png">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Resources\DirikuDirinya.mid" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Resources\DirikuDirinya.mid">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Resources\login-icon.png" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Resources\login-icon.png">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Resources\login-icon1.png" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Resources\login-icon1.png">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Form1.resx" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Form1.resx">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\frmChat.resx" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\frmChat.resx">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\frmDosen.resx" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\frmDosen.resx">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\frmMataKuliah.resx" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\frmMataKuliah.resx">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\frmPengumuman.resx" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\frmPengumuman.resx">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Properties\Resources.resx" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Resources\back.jpg" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Resources\back.jpg">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Resources\119012_36582_128_announcement_blog_loudspeaker_icon.png" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Resources\119012_36582_128_announcement_blog_loudspeaker_icon.png">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Resources\iphone-sms-icon.png" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Resources\iphone-sms-icon.png">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Resources\back2.jpg" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Resources\back2.jpg">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Resources\delete.png" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Resources\delete.png">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Resources\smiley.png" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Resources\smiley.png">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Resources\lecture.png" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Resources\lecture.png">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Resources\close.png" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Resources\close.png">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\frmJadwal.resx" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\frmJadwal.resx">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\frmPembuat.resx" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\frmPembuat.resx">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Login.resx" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Login.resx">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\Resources\dosen.png" Description="File successfully backed up as D:\Dokumen\Visual Studio 2008\Projects\AdminSMS\Backup\AdminSMS\Resources\dosen.png">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\AdminSMS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AdminSMS" Source="AdminSMS\AdminSMS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AdminSMS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AdminSMS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AdminSMS" Source="AdminSMS\AdminSMS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
